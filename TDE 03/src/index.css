@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background: url('../public/images/background.png') no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+
+
+
+
+
