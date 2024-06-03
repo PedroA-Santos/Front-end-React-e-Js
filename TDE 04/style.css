@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: aliceblue;
+}
+
+
+.primeiroParagrafo{
+    color: rgb(0, 255, 89);
+    font-size: 16px;
+}
+
+.segundoParagrafo{
+    color: blue;
+    font-size: 20px;
+    padding: 8px;
+}
+
+
+.container{
+    padding: 16px;
+    margin: 4px;
+    border: 2px solid;
+    border-color: rgb(0, 0, 0);
+}
+
+
+.primeiraDiv{
+    padding: 16px;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+
+.segundaDiv{
+    padding: 16px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.containerDivs{
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+   justify-content: center;
+   align-items: center;
+}
